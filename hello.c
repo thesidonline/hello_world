@@ -2,5 +2,5 @@
 void main()
 {
 printf("hello world");
-printf("\This file is edited");
+printf("\this file is edited");
 }
